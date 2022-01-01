@@ -6,6 +6,5 @@ main() {
 	palindrome();
 	sum();
 	fib();
-	biggest3();
 	sort();
 }
